@@ -1,18 +1,42 @@
-# FurniSmart-Solutions
-FurniSmart Solutions is a visionary and innovative fictional company specializing in the realm of office equipment supplies and contemporary office furniture. Committed to providing cutting-edge, ergonomic, and stylish solutions, FurniSmart is dedicated to enhancing workspace functionality and aesthetics. With a diverse range of products, from ergonomic chairs and desks and office accessories, FurniSmart Solutions sets the standard for workspaces that inspire comfort and efficiency.
+![](R.jfif)
 
+# FurniSmart-Solutions Sales Data
+
+FurniSmart Solutions is a visionary and innovative fictional company specializing in the realm of office equipment supplies and contemporary office furniture. Committed to providing cutting-edge, ergonomic, and stylish solutions, FurniSmart is dedicated to enhancing workspace functionality and aesthetics. With a diverse range of products, from ergonomic chairs and desks and office accessories, FurniSmart Solutions sets the standard for workspaces that inspire comfort and efficiency.
 
 In my role as a Data Analyst, my responsibility extended to creating detailed reports that shed light on FurniSmart Solutions' current operations and serve as vital resources for crafting effective strategies. It's worth noting that the data used in these reports is entirely fictitious, providing a simulated yet valuable representation of the insights that FurniSmart Solutions could gain from this analysis.
 
-THE BUSINESS QUESTIONS 
+
+1. **THE BUSINESS QUESTIONS** 
 
 These business questions cover the sales, operations and strategy aspects. By analyzing the datasets, FurniSmart Solutions can gain insights and make data-driven decisions to improve their overall performance and competitiveness.
 
 - **In which month of the year did the company generated the highest profit?**
+
   
 According the analysis, The table presents a monthly summary of sales and profit data. November and December stand out as peak sales months, with  $352,461.07 and $325,293.50 in sales, respectively. December records the highest profit of $43,369.19, likely due to holiday such as Christmas which often lead to increased consumer spending. The analysis reveals a positive correlation between sales and profit, where higher sales generally result in higher profits. While February has the lowest sales, it still boasts a relatively high profit of $10,294.61, suggesting efficient cost management. This data emphasized the importance of capitalizing on peak sales months and implementing strategies to maintain profitability throughout the year.
 
 ![](scr1.png)
+
+
+- **What is the effect of shipping processing time and shipping mode on customer retention?**
+
+The analysis highlights a concerning trend where a significant number of 1st and 2nd class shipping orders experience delays compared to standard class shipments. Such discrepancies in delivery times could potentially lead to customer dissatisfaction. It's advisable for FurniSmart Solutions to proactively address this issue as it may impact customer retention.
+
+![](scr7.png)
+
+To resolve this, a review of the terms of the contract between the delivery company and the sales company is essential. Ensuring timely and consistent delivery is crucial for maintaining customer satisfaction and loyalty. Additionally, a strategic move might involve establishing a warehouse closer to the highest revenue-generating region. This adjustment can significantly reduce delivery timelines, improving overall customer experience and operational efficiency. By taking these measures, FurniSmart can enhance its service quality and customer retention rates.
+
+![](scr5.png)
+
+
+- **Who is the most valuable customer?** 
+
+![](scr7.png)
+
+Tamara Chand, our most lucrative customer, contributed a substantial profit of $8,981.32 to our business. Her loyalty was evident, having made 12 repeated purchases. However, it's essential to highlight that she consistently opted for the standard shipping mode, which typically promises delivery within 5 days. Surprisingly, her orders took longer than 5 days to arrive. This delay could have led to her discontinuing business with us in 2017. To retain valuable customers like Tamara, it's recommended to ensure that we meet delivery timeframes consistently, especially for those who opt for standard shipping, to enhance their overall experience and loyalty.
+![](scr6.png)
+
 
 - **Which Segment and City has the highest and lowest revenue?**
 
@@ -23,7 +47,8 @@ On the other end of the spectrum, the least revenue-generating cities include Sa
 
 ![](scr2.png)
 
-**What are the best performing and least performing products by category?** 
+
+- **What are the best performing and least performing products by category?** 
 
 This analysis focuses on identifying the best and worst-performing products within each category. By evaluating sales, profit, and other relevant metrics, it aims to uncover the products that excel in their respective categories and those that may require improvement. The findings can guide strategic decisions, such as optimizing the marketing or inventory management of top-performing products and exploring ways to enhance the performance of those in underperforming categories. This insight-driven approach will empower FurniSmart Solutions to allocate resources more efficiently and strengthen their product portfolio for improved overall performance.
 
@@ -46,6 +71,49 @@ Redirecting budgets from loss-making products to top performers is a strategic m
 ![](scr3.png)
 
 
+- **Over the last 4 years, how much profit have FurniSmart achieved?** 
+
+FurniSmart's financial performance has displayed a notable upward trend over the past four years, spanning from 2014 to 2017. This progression is evident in the annual profit figures, which have consistently risen during this period. In 2014, FurniSmart Solutions recorded a profit of $49,543.97, which increased to $61,618.60 in 2015, further climbing to $81,795.17 in 2016, and ultimately peaking at $93,439.27 in 2017.
+
+This positive trend in profit growth reflects the company's effective strategies, improved market positioning, or operational efficiency. To maintain and build upon this success, it is advisable for   to continue focusing on its core strengths, exploring opportunities for diversification, and managing costs to ensure long-term profitability.
+
+![](scr4.png)
+
+
+2. **KEY PERFORMANCE INDICATORS**
+
+Key Performance Indicators (KPIs) are essential metrics that can be used to assess the performance and strategies of FurniSmart Solutions. They provide valuable insights into the sales effectiveness and help drive decision-making.
+
+- Total Revenue
+  
+![](scr9.png)
+
+The Total Revenue, which stands at $2,297,200.86, serves as a pivotal Key Performance Indicator (KPI) in evaluating overall FurniSmart's financial health. 
+
+
+- Profit Margin
+  
+![](scr10.png)
+
+The Profit Margin of 12.47% signifies that for every dollar of revenue, the company retains about 12.47 cents as profit after covering expenses. With a Total Revenue of $2,297,200.86 and a Total Profit of $286,397.02, it's evident that the company is running profitably. To enhance profitability, focus on cost control and revenue growth strategies, potentially through expanding into higher-margin product lines or increasing sales in regions or segments with higher profitability.
+
+
+- Sales Growth Rate
+
+![](scr8.png)
+
+Over the years, the company's sales have experienced fluctuations. In 2015, there was a decline of 2.83%, followed by substantial growth in 2016 and 2017, with growth rates of 29.47% and 20.36% respectively. To sustain and improve performance, it's crucial to identify the factors contributing to the fluctuations. A drop in 2015 suggests a potential issue that needs attention, while the subsequent growth indicates resilience and adaptability. 
+
+
+- Total Discount Given
+
+![](scr11.png)
+
+The total discount given by FurniSmart Solution, amounting to $1,561.09, is a crucial metric to consider in conjunction with the Total Revenue of $2,297,200.86 and Total Profit of $286,397.02.
+While discounts can attract customers, it's vital to ensure they don't overly impact profitability. To optimize profitability, it's recommended to monitor and manage discounts closely. 
+
+
+**
 
 
 
