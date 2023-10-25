@@ -14,7 +14,7 @@ These business questions cover the sales, operations and strategy aspects. By an
 - **In which month of the year did the company generated the highest profit?**
 
   
-According the analysis, The table presents a monthly summary of sales and profit data. November and December stand out as peak sales months, with  $352,461.07 and $325,293.50 in sales, respectively. December records the highest profit of $43,369.19, likely due to holiday such as Christmas which often lead to increased consumer spending. The analysis reveals a positive correlation between sales and profit, where higher sales generally result in higher profits. While February has the lowest sales, it still boasts a relatively high profit of $10,294.61, suggesting efficient cost management. This data emphasized the importance of capitalizing on peak sales months and implementing strategies to maintain profitability throughout the year.
+According to the analysis, The table presents a monthly summary of sales and profit data. November and December stand out as peak sales months, with  $352,461.07 and $325,293.50 in sales, respectively. December records the highest profit of $43,369.19, likely due to holiday such as Christmas which often lead to increased consumer spending. The analysis reveals a positive correlation between sales and profit, where higher sales generally result in higher profits. While February has the lowest sales, it still boasts a relatively high profit of $10,294.61, suggesting efficient cost management. This data emphasized the importance of capitalizing on peak sales months and implementing strategies to maintain profitability throughout the year.
 
 ![](scr1.png)
 
