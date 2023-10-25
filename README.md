@@ -84,6 +84,7 @@ This positive trend in profit growth reflects the company's effective strategies
 
 Key Performance Indicators (KPIs) are essential metrics that can be used to assess the performance and strategies of FurniSmart Solutions. They provide valuable insights into the sales effectiveness and help drive decision-making.
 
+
 - Total Revenue
   
 ![](scr9.png)
