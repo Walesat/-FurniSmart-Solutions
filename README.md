@@ -11,23 +11,23 @@ In my role as a Data Analyst, my responsibility extended to creating detailed re
 
 These business questions cover the sales, operations and strategy aspects. By analyzing the datasets, FurniSmart Solutions can gain insights and make data-driven decisions to improve their overall performance and competitiveness.
 
-- **In which month of the year did the company generated the highest profit?**
 
+- **In which month of the year did the company generated the highest profit?**
   
 According to the analysis, The table presents a monthly summary of sales and profit data. November and December stand out as peak sales months, with  $352,461.07 and $325,293.50 in sales, respectively. December records the highest profit of $43,369.19, likely due to holiday such as Christmas which often lead to increased consumer spending. The analysis reveals a positive correlation between sales and profit, where higher sales generally result in higher profits. While February has the lowest sales, it still boasts a relatively high profit of $10,294.61, suggesting efficient cost management. This data emphasized the importance of capitalizing on peak sales months and implementing strategies to maintain profitability throughout the year.
 
-![](scr1.png)
+![](1.png)
 
 
 - **What is the effect of shipping processing time and shipping mode on customer retention?**
 
-The analysis highlights a concerning trend where a significant number of 1st and 2nd class shipping orders experience delays compared to standard class shipments. Such discrepancies in delivery times could potentially lead to customer dissatisfaction. It's advisable for FurniSmart Solutions to proactively address this issue as it may impact customer retention.
+The analysis highlights a concerning trend where a significant number of standard shipping orders experienced delays. Such discrepancies in delivery times could potentially lead to customer dissatisfaction. It's advisable for FurniSmart Solutions to proactively address this issue as it may impact customer retention.
 
 ![](scr7.png)
 
 To resolve this, a review of the terms of the contract between the delivery company and the sales company is essential. Ensuring timely and consistent delivery is crucial for maintaining customer satisfaction and loyalty. Additionally, a strategic move might involve establishing a warehouse closer to the highest revenue-generating region. This adjustment can significantly reduce delivery timelines, improving overall customer experience and operational efficiency. By taking these measures, FurniSmart can enhance its service quality and customer retention rates.
 
-![](scr5.png)
+![](2.png)
 
 
 - **Who is the most valuable customer?** 
@@ -35,7 +35,8 @@ To resolve this, a review of the terms of the contract between the delivery comp
 ![](scr7.png)
 
 Tamara Chand, our most lucrative customer, contributed a substantial profit of $8,981.32 to our business. Her loyalty was evident, having made 12 repeated purchases. However, it's essential to highlight that she consistently opted for the standard shipping mode, which typically promises delivery within 5 days. Surprisingly, her orders took longer than 5 days to arrive. This delay could have led to her discontinuing business with us in 2017. To retain valuable customers like Tamara, it's recommended to ensure that we meet delivery timeframes consistently, especially for those who opt for standard shipping, to enhance their overall experience and loyalty.
-![](scr6.png)
+
+![](3.png)
 
 
 - **Which Segment and City has the highest and lowest revenue?**
@@ -43,9 +44,11 @@ Tamara Chand, our most lucrative customer, contributed a substantial profit of $
 This metric serves as a critical evaluation of the top revenue-generating cities in contrast to those cities that contribute the least revenue. 
 The top three cities leading in revenue generation are identified as New York, Los Angeles, and Seattle, with the Consumer segment notably contributing the most revenue. As a Data Analyst, I strongly recommend that these top three cities consider increasing their supply to meet the high demand in these areas. By doing so, they can optimize their profit potential and enhance their market presence.
 
+![](4.1.png)
+
 On the other end of the spectrum, the least revenue-generating cities include San Antonio, Houston and Philadelphia. Based on the data analysis, I propose the strategic closure of sales outlets in cities where the sales revenue falls below the $100 mark. This recommendation stems from the observation that the majority of these outlets are operating at a loss, and the profits generated are insufficient to cover the associated overhead costs. By implementing this course of action, the business can redirect resources to more profitable regions and strengthen its overall financial health.
 
-![](scr2.png)
+![](4.2.png)
 
 
 - **What are the best performing and least performing products by category?** 
@@ -68,7 +71,7 @@ A concerning revelation is that out of the 9,994 products within the category, a
 
 Redirecting budgets from loss-making products to top performers is a strategic move that can drive growth, enhance the overall financial health, and enable better resource allocation. This approach ensures that the company capitalizes on its strengths and mitigates weaknesses within the product category.
 
-![](scr3.png)
+![](5.png)
 
 
 - **Over the last 4 years, how much profit have FurniSmart achieved?** 
@@ -77,7 +80,7 @@ FurniSmart's financial performance has displayed a notable upward trend over the
 
 This positive trend in profit growth reflects the company's effective strategies, improved market positioning, or operational efficiency. To maintain and build upon this success, it is advisable for   to continue focusing on its core strengths, exploring opportunities for diversification, and managing costs to ensure long-term profitability.
 
-![](scr4.png)
+![](6.png)
 
 
 2. **KEY PERFORMANCE INDICATORS**
@@ -101,7 +104,7 @@ The Profit Margin of 12.47% signifies that for every dollar of revenue, the comp
 
 - Sales Growth Rate
 
-![](scr8.png)
+![](7.png)
 
 Over the years, the company's sales have experienced fluctuations. In 2015, there was a decline of 2.83%, followed by substantial growth in 2016 and 2017, with growth rates of 29.47% and 20.36% respectively. To sustain and improve performance, it's crucial to identify the factors contributing to the fluctuations. A drop in 2015 suggests a potential issue that needs attention, while the subsequent growth indicates resilience and adaptability. 
 
@@ -114,7 +117,22 @@ The total discount given by FurniSmart Solution, amounting to $1,561.09, is a cr
 While discounts can attract customers, it's vital to ensure they don't overly impact profitability. To optimize profitability, it's recommended to monitor and manage discounts closely. 
 
 
-**
+3. **RECOMMENDATIONS** 
+
+- Operational Efficiency: FurniSmart Solutions need to streamline internal processes by reducing operational costs through process optimization.
+
+- Product Performance: Regularly assess and upgrade products based on customer feedback and market trends.
+
+- Customer Retention Strategy: Develop customer retention programs to reduce churn by addressing pain points and improving customer satisfaction.  
+
+- Market Expansion: Explore new markets or customer segments to diversify revenue streams and mitigate risks
+
+
+4. **CONCLUSION**
+   
+In conclusion, addressing the key business questions through data analysis has provided valuable insights for decision-making. The analysis revealed that peak sales months, such as November and December, coincide with higher profits, emphasizing the strong correlation between sales and profitability. 
+It is evident that supply adjustments should be considered in the top-performing cities to meet growing demand, while cities with consistently low revenue require strategic restructuring, including the closure of outlets unable to cover overhead costs. 
+This data-driven approach will enable FurniSmart Solution to optimize resources, enhance profitability, and strategically position themselves for sustained growth in an ever-evolving marketplace.
 
 
 
